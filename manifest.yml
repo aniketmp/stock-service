@@ -1,0 +1,12 @@
+---
+applications:
+- name: stockservice
+  path: ./target/stockservice-0.0.1-SNAPSHOT.jar
+  memory: 1G
+  instances: 1
+  env:
+    TRUST_CERTS: api.sys.cg.examples.cf
+  services:
+  #- stockservice-db
+  - service-registry
+  #- config-server-git

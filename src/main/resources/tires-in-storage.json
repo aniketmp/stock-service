@@ -1,0 +1,68 @@
+{
+   "Model X": [
+      {
+         "season": "winter",
+         "tiremodel": "energy",
+		 "price": "1000"
+      },
+	  {
+         "season": "winter",
+         "tiremodel": "premier",
+		 "price": "1500"
+      },
+	  {
+         "season": "summer",
+         "tiremodel": "latitude",
+		 "price": "2000"
+      },
+	  {
+         "season": "summer",
+         "tiremodel": "ltx",
+		 "price": "2500"
+      },
+	  {
+         "season": "all-season",
+         "tiremodel": "sport",
+		 "price": "2000"
+      }
+   ],
+   "Model Y": [
+      {
+         "season": "summer",
+         "tiremodel": "defender",
+		 "price": "1000"
+      },
+	  {
+         "season": "winter",
+         "tiremodel": "x-drive",
+		 "price": "1500"
+      },
+	  {
+         "season": "winter",
+         "tiremodel": "performance",
+		 "price": "2000"
+      },
+	  {
+         "season": "winter",
+         "tiremodel": "crossover",
+		 "price": "2000"
+      }
+   ],
+   "Model Z": [
+      {
+         "season": "winter",
+         "tiremodel": "struggle",
+		 "price": "1500"
+      },
+	  {
+         "season": "winter",
+         "tiremodel": "touring",
+		 "price": "2000"
+      },
+	  {
+         "season": "all-season",
+         "tiremodel": "balanced",
+		 "price": "1750"
+      }
+	]
+}
